@@ -1,6 +1,8 @@
 # Describe the Zero-Trust methodology
 
-* The Zero Trust model operates on the principle of “trust no one, verify everything.”
+[Zero-Trust methodology](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/2-describe-zero-trust-methodology)
+
+The Zero Trust model operates on the principle of “trust no one, verify everything.”
 
 Three underlying principles: 
 * Verify explicitly: Always veryfy credentials using the user identity, location, device, service or workload, data classification and anomalities
