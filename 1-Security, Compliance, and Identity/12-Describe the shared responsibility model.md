@@ -1,6 +1,6 @@
 # Describe the shared responsibility model
 
-[Describe the shared responsibility model](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/2-describe-zero-trust-methodology)
+[Describe the shared responsibility model](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/3-describe-shared-responsibility-model)
 
 The Shared responsibility model details which security tasks are handled by the cloud provider (Microsoft), and which are handled by the customer (You)
 

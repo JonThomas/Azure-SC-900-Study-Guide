@@ -5,7 +5,7 @@
 ## Describe security and compliance concepts & methodologies
 * [Describe the Zero-Trust methodology](11-Describe%20the%20Zero-Trust%20methodology.md)
 * [Describe the shared responsibility model](12-Describe%20the%20shared%20responsibility%20model.md)
-* [Define defense in depth]()
+* [Define defense in depth](13-Define%20defense%20in%20depth.md)
 * [Describe common threats]()
 * [Describe encryption and hashing]()
 * [Describe cloud adoption framework]()
