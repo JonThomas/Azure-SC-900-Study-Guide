@@ -4,7 +4,7 @@
 
 ## Describe security and compliance concepts & methodologies
 * [Describe the Zero-Trust methodology](11-Describe%20the%20Zero-Trust%20methodology.md)
-* [Describe the shared responsibility model]()
+* [Describe the shared responsibility model](12-Describe%20the%20shared%20responsibility%20model.md)
 * [Define defense in depth]()
 * [Describe common threats]()
 * [Describe encryption and hashing]()
