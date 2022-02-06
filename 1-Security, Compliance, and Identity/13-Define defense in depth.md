@@ -2,7 +2,7 @@
 
 [Define defense in depth](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/4-describe-defense-depth)
 
-Defence in depth means having several layers of security, and now only relying on the company outer perimeter.
+Defence in depth means having several layers of security, and not only relying on the company outer perimeter.
 
 Example layers of security might include:
 * Physical
