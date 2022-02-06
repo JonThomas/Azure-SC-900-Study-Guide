@@ -7,7 +7,7 @@
 * [Describe the shared responsibility model](12-Describe%20the%20shared%20responsibility%20model.md)
 * [Define defense in depth](13-Define%20defense%20in%20depth.md)
 * [Describe common threats](14-Describe%20common%20threats.md)
-* [Describe encryption and hashing]()
+* [Describe encryption and hashing](15-Describe%20encryption%20and%20hashing.md)
 * [Describe cloud adoption framework]()
 
 ## Define identity concepts
