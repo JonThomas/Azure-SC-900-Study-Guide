@@ -2,7 +2,7 @@
 
 [Define common Identity Attacks](https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/2-describe-common-identity-attacks)
 
-Identities are attached using several techniques
+Identities are attacked using several techniques
 * Brute force
 * Password spray attacks (trying common passwords on many accounts)
 * Credential stuffing (people use same passwords on several sites)

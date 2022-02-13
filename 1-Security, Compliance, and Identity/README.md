@@ -11,7 +11,7 @@
 * [Describe cloud adoption framework](16-Describe%20cloud%20adoption%20framework.md)
 
 ## Define identity concepts
-* [Define identity as the primary security perimeter]()
+* [Define identity as the primary security perimeter](21-Define%20identity%20as%20the%20primary%20security%20perimeter.md)
 * [Define authentication]()
 * [Define authorization]()
 * [Describe what identity providers are]()
