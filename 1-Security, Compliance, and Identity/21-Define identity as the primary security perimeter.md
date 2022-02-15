@@ -4,8 +4,7 @@
 
  An identity is how someone or something can be verified and authenticated to be who they say they are. An identity may be associated with a user, an application, a device, or something else.
 
-Identity is the new security perimeter.
-- because it now streches beyond company perimeter: 
+Identity is the new security perimeter - because it now streches beyond company perimeter: 
 * SaaS apps, like Office 365
 * Personal devices
 * Unmanaged devices
