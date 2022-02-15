@@ -12,10 +12,10 @@
 
 ## Define identity concepts
 * [Define identity as the primary security perimeter](21-Define%20identity%20as%20the%20primary%20security%20perimeter.md)
-* [Define authentication](22-)
-* [Define authorization](23-)
+* Define authentication
+* Define authorization
 * [Describe what identity providers are](24-Describe%20what%20identity%20providers%20are.md)
-* [Describe what Active Directory is](25-)
+* [Describe what Active Directory is](25-Describe%20what%20Active%20Directory%20is.md)
 * [Describe the concept of Federated services](26-Describe%20the%20concept%20of%20Federated%20services.md)
 * [Define common Identity Attacks](27-Define%20common%20Identity%20Attacks.md)
 
