@@ -5,8 +5,8 @@
 ## Describe the basic identity services and identity types of Azure AD
 * [Describe what Azure Active Directory is](11-Describe%20what%20Azure%20Active%20Directory%20is.md)
 * [Describe Azure AD identity types (users, devices, groups, service principals/applications)](12-Describe%20Azure%20AD%20identity%20types.md)
-* [Describe what hybrid identity is]
-* [Describe the different external identity types (Guest Users)]
+* [Describe what hybrid identity is](13-Describe%20what%20hybrid%20identity%20is.md)
+* [Describe the different external identity types (Guest Users)](14-Describe%20the%20different%20external%20identity%20types.md)
 ## Describe the authentication capabilities of Azure AD
 * [Describe the different authentication methods]
 * [Describe self-service password reset]
