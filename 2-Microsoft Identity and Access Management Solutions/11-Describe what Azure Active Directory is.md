@@ -17,6 +17,15 @@ Features:
 * Single Sign-on (SSO)
 * APIs that expose organizational data(!)
 
+## Azure AD Editions
+
+[Azure AD Editions](https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/3-describe-available-editions)
+
+* Free
+* Office 365 Apps
+* Premium P1
+* Premium P2
+
 [Return to Microsoft Identity and Access Management Solutions](README.md)
 
 [Return to Table of Contents](../README.md)
