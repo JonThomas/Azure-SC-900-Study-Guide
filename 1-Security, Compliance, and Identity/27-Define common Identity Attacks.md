@@ -5,6 +5,7 @@
 Identities are attacked using several techniques
 * Brute force
 * Password spray attacks (trying common passwords on many accounts)
+* Password replay attacks (replaying network authentication traffic)
 * Credential stuffing (people use same passwords on several sites)
 * Phishing
 * Spear phishing (highly targeted phishing)

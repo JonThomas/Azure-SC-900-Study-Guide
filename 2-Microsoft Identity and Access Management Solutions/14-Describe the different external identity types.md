@@ -11,7 +11,7 @@ Two different types of external identities:
 * B2C access management: End users sign in using external identity providers.
     * External users are stored in the B2C directory
 
-* External Identities is requires Premium P1 or P2.
+* External Identities requires Premium P1 or P2.
 
 [Return to Microsoft Identity and Access Management Solutions](README.md)
 

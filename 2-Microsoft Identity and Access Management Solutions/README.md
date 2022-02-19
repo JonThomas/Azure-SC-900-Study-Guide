@@ -8,11 +8,11 @@
 * [Describe what hybrid identity is](13-Describe%20what%20hybrid%20identity%20is.md)
 * [Describe the different external identity types (Guest Users)](14-Describe%20the%20different%20external%20identity%20types.md)
 ## Describe the authentication capabilities of Azure AD
-* [Describe the different authentication methods]
-* [Describe self-service password reset]
-* [Describe password protection and management capabilities]
-* [Describe Multi-factor Authentication]
-* [Describe Windows Hello for Business]
+* [Describe the different authentication methods]21
+* [Describe self-service password reset]22
+* [Describe password protection and management capabilities]23
+* [Describe Multi-factor Authentication](24-Describe%20Multi-factor%20Authentication.md)
+* [Describe Windows Hello for Business]25
 ## Describe access management capabilities of Azure AD
 * [Describe what conditional access is]
 * [Describe uses and benefits of conditional access]
