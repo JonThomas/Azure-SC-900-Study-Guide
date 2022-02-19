@@ -6,6 +6,8 @@ A Conditional Access policy automatically gives or denies access to resources (a
 
 Conditional Access policy is an Azure Premium feature
 
+Conditional access policies use _if then_ statements, with signals to determine wheter to grant access, require more information, or block access:  
+
 ## Signals
 * User or group membership
 * Location (IP ranges)
