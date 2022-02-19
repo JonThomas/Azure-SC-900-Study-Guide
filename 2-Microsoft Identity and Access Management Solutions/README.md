@@ -14,7 +14,7 @@
 * [Describe Multi-factor Authentication](24-Describe%20Multi-factor%20Authentication.md)
 * [Describe Windows Hello for Business](25-Describe%20Windows%20Hello%20for%20Business.md)
 ## Describe access management capabilities of Azure AD
-* [Describe what conditional access is]
+* [Describe what conditional access is](31-Describe%20what%20conditional%20access%20is.md)
 * [Describe uses and benefits of conditional access]
 * [Describe the benefits of Azure AD roles]
 ## Describe the identity protection & governance capabilities of Azure AD
