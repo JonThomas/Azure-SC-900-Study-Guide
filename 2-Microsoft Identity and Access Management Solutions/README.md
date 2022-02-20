@@ -21,6 +21,6 @@
 * [Describe what identity governance is](41-Describe%20what%20identity%20governance%20is.md)
 * [Describe what entitlement management and access reviews is](42-Describe%20what%20entitlement%20management%20and%20access%20reviews%20is.md)
 * [Describe the capabilities of PIM](43-Describe%20the%20capabilities%20of%20PIM.md)
-* [Describe Azure AD Identity Protection]
+* [Describe Azure AD Identity Protection](44-Describe%20Azure%20AD%20Identity%20Protection.md)
 
 [Return to Table of Contents](../README.md)
