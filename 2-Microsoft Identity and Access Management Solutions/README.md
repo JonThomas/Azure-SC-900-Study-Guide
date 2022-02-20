@@ -18,7 +18,7 @@
 * Describe uses and benefits of conditional access
 * [Describe the benefits of Azure AD roles](33-Describe%20the%20benefits%20of%20Azure%20AD%20roles.md)
 ## Describe the identity protection & governance capabilities of Azure AD
-* [Describe what identity governance is]
+* [Describe what identity governance is](41-Describe%20what%20identity%20governance%20is.md)
 * [Describe what entitlement management and access reviews is]
 * [Describe the capabilities of PIM]
 * [Describe Azure AD Identity Protection]
