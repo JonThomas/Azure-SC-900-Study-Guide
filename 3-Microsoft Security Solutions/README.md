@@ -4,8 +4,8 @@
 
 ## Describe basic security capabilities in Azure
 * [Describe Azure Network Security groups](11-Describe%20Azure%20Network%20Security%20groups.md)
-* [Describe Azure DDoS protection]
-* [Describe what Azure Firewall is]
+* [Describe Azure DDoS protection (in the AZ-500 study guide)](https://github.com/JonThomas/Azure-AZ-500-Study-Guide/blob/master/2-Implement%20platform%20protection/19-Implement%20DDoS%20protection.md)
+* [Describe what Azure Firewall is (in the AZ-500 study guide)](https://github.com/JonThomas/Azure-AZ-500-Study-Guide/blob/master/2-Implement%20platform%20protection/12-Create%20and%20configure%20Azure%20Firewall.md)
 * [Describe what Azure Bastion is]
 * [Describe what Web Application Firewall is]
 * [Describe ways Azure encrypts data]
