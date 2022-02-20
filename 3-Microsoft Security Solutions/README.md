@@ -8,7 +8,7 @@
 * [Describe what Azure Firewall is (in the AZ-500 study guide)](https://github.com/JonThomas/Azure-AZ-500-Study-Guide/blob/master/2-Implement%20platform%20protection/12-Create%20and%20configure%20Azure%20Firewall.md)
 * [Describe what Azure Bastion is](14-Describe%20what%20Azure%20Bastion%20is.md)
 * [Describe what Web Application Firewall is (in the AZ-500 study guide)](https://github.com/JonThomas/Azure-AZ-500-Study-Guide/blob/master/2-Implement%20platform%20protection/15-Create%20and%20configure%20a%20Web%20Application%20Firewall%20(WAF).md)
-* [Describe ways Azure encrypts data]
+* [Describe ways Azure encrypts data](16-Describe-ways-Azure-encrypts-data.md)
 ## Describe security management capabilities of Azure
 * [Describe Cloud security posture management (CSPM)]
 * [Describe Microsoft Defender for Cloud]
