@@ -15,7 +15,7 @@ Azure AD identity governance help organizations answer the following questions:
 * Are there effective organizational controls for managing access
 * Can auditors verify that the controls are working
 
-# Govern the identity lifecycle
+## Govern the identity lifecycle
 * Employee **joins** the company: Give access
 * Employee **moves**: Change access
 * Employee **leaves**: Remove access
@@ -24,12 +24,12 @@ Azure AD Premium offers integration with cloud-based HR systems, in case users a
 
 Azure AD Premium also includes **Microsoft Identity Manager**, which can import records from on-premises HR systems such as SAP and Oracle.
 
-# Govern access lifecycle
+## Govern access lifecycle
 * Much like the identity lifecycle. 
 * Access can be automated using Azure AD dynamic groups.
     * Group membership is automatically assigned, by using attributes on the user.
 
-# Privileged access lifecycle for administrators
+## Privileged access lifecycle for administrators
 * Monitoring privileged access is important!
 * See Privileged Access Management (PIM), which helps minimize the number of people who have access to resources (What's the difference between PIM and Conditional access??)
 
