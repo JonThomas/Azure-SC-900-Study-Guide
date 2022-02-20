@@ -22,7 +22,7 @@ Entitlement management requires Azure AD Premium P2.
 
 ## Azure AD access reviews
 
-An access review is basically to check if users and guests are set up correctly, and doesn't have to much access.
+An access review is basically a distributed review to check if users and guests are set up correctly, and doesn't have to much access.
 * Can be configured through Azure AD access reviews, or through PIM.
 * Admins who create access reviews can track progress.
 * No access rights are changed until the review is completed, but the review can be stopped

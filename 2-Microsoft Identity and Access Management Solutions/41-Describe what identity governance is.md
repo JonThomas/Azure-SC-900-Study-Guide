@@ -31,7 +31,7 @@ Azure AD Premium also includes **Microsoft Identity Manager**, which can import 
 
 ## Privileged access lifecycle for administrators
 * Monitoring privileged access is important!
-* See Privileged Access Management (PIM), which helps minimize the number of people who have access to resources (What's the difference between PIM and Conditional access??)
+* See [Privileged Access Management (PIM)](43-Describe%20the%20capabilities%20of%20PIM.md), which helps minimize the number of people who have access to resources
 
 [Return to Microsoft Identity and Access Management Solutions](README.md)
 

@@ -6,6 +6,8 @@ There are many built in roles in Azure AD, preconfigured bundles of permissions,
 * Global administrator
 * User administrator
 * Billing administrator
+* Exchange administrator
+* Password administrator
 
 Custom roles can be created.
 
