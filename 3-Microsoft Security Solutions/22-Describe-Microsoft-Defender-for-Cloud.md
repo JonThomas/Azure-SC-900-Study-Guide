@@ -17,6 +17,8 @@ Microsoft Defender for Cloud (aka Azure Defender) protects workloads running in 
 
 ## Defender plans
 
+These plans can be enabled independently:
+
 * Microsoft Defender for servers - Windows and Linux machines.
 * Microsoft Defender for App Service - identifies attacks targeting applications running over App Service.
 * Microsoft Defender for Storage - detects potentially harmful activity on your Azure Storage accounts.

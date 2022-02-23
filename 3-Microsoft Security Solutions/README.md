@@ -12,9 +12,9 @@
 ## Describe security management capabilities of Azure
 * [Describe Cloud security posture management (CSPM)](21-Describe-Cloud-security-posture-management-(CSPM).md)
 * [Describe Microsoft Defender for Cloud](22-Describe-Microsoft-Defender-for-Cloud.md)
-* [Describe secure score in Microsoft Defender Cloud]
-* [Describe enhanced security of Microsoft Defender for Cloud]
-* [Describe security baselines for Azure]
+* [Describe secure score in Microsoft Defender Cloud](23-Describe-secure-score-in-Microsoft-Defender-Cloud.md)
+* [Describe enhanced security of Microsoft Defender for Cloud](24-Describe-enhanced-security-of-Microsoft-Defender-for-Cloud.md)
+* [Describe security baselines for Azure](25-Describe-security-baselines-for-Azure.md)
 ## Describe security capabilities of Microsoft Sentinel
 * [Define the concepts of SIEM, SOAR, XDR]
 * [Describe how of Microsoft Sentinel provides integrated threat protection]
