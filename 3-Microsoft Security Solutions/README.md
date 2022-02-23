@@ -10,8 +10,8 @@
 * [Describe what Web Application Firewall is (in the AZ-500 study guide)](https://github.com/JonThomas/Azure-AZ-500-Study-Guide/blob/master/2-Implement%20platform%20protection/15-Create%20and%20configure%20a%20Web%20Application%20Firewall%20(WAF).md)
 * [Describe ways Azure encrypts data](16-Describe-ways-Azure-encrypts-data.md)
 ## Describe security management capabilities of Azure
-* [Describe Cloud security posture management (CSPM)]
-* [Describe Microsoft Defender for Cloud]
+* [Describe Cloud security posture management (CSPM)](21-Describe-Cloud-security-posture-management-(CSPM).md)
+* [Describe Microsoft Defender for Cloud](22-Describe-Microsoft-Defender-for-Cloud.md)
 * [Describe secure score in Microsoft Defender Cloud]
 * [Describe enhanced security of Microsoft Defender for Cloud]
 * [Describe security baselines for Azure]
