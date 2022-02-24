@@ -18,8 +18,8 @@
 ## Describe security capabilities of Microsoft Sentinel
 * [Define the concepts of SIEM, SOAR, XDR](31-Define-the-concepts-of-SIEM-SOAR-XDR.md) [Describe how of Microsoft Sentinel provides integrated threat protection](32-Describe-how-of-Microsoft-Sentinel-provides-integrated-threat-protection.md)
 ## Describe threat protection with Microsoft 365 Defender
-* [Describe Microsoft 365 Defender services]
-* [Describe Microsoft Defender for Identity (formerly Azure ATP)]
+* [Describe Microsoft 365 Defender services](41-Describe-Microsoft-365-Defender-services.md)
+* [Describe Microsoft Defender for Identity (formerly Azure ATP)](42-Describe-Microsoft-Defender-for-Identity.md)
 * [Describe Microsoft Defender for Office 365 (formerly Office 365 ATP)]
 * [Describe Microsoft Defender for Endpoint (formerly Microsoft Defender ATP)]
 * [Describe Microsoft Defender for Cloud Apps]

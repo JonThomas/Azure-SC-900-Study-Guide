@@ -1,6 +1,6 @@
 # Describe how of Microsoft Sentinel provides integrated threat protection
 
-[Describe how of Microsoft Sentinel provides integrated threat protection]()
+[Describe how of Microsoft Sentinel provides integrated threat protection](https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/3-describe-sentinel-provide-integrated-threat-protection)
 
 Microsoft Sentinel provides a single solution for alert detection, threat visibility, proactive hunting, and threat response. It is both a SIEM and SOAR tool. 
 
