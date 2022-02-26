@@ -24,7 +24,7 @@
 * [Describe Microsoft Defender for Endpoint (formerly Microsoft Defender ATP)](44-Describe-Microsoft-Defender-for-Endpoint.md)
 * [Describe Microsoft Defender for Cloud Apps](45-Describe-Microsoft-Defender-for-Cloud-Apps.md)
 ## Describe security management capabilities of Microsoft 365
-* [Describe the Microsoft 365 Defender portal]
+* [Describe the Microsoft 365 Defender portal](51-Describe-the-Microsoft-365-Defender-portal.md)
 * [Describe how to use Microsoft Secure Score]
 * [Describe security reports and dashboards]
 * [Describe incidents and incident management capabilities]
