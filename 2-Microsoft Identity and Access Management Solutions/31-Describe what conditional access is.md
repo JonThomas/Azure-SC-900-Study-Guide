@@ -30,6 +30,8 @@ Based on signals, the following access controls can be applied:
     * Block download
     * ...
 
+See also [Endpoint security with Intune](../3-Microsoft Security Solutions/62-Describe-endpoint-security-with-Intune.md), which uses conditional acccess enforce which devices and apps can access corporate resources 
+
 See also [Conditional access in the AZ-500 study guide](https://github.com/JonThomas/Azure-AZ-500-Study-Guide/blob/master/1-Manage%20identity%20and%20access/24-Implement%20Conditional%20Access%20Policies%20including%20Multi-Factor%20Authentication.md)
 
 [Return to Microsoft Identity and Access Management Solutions](README.md)

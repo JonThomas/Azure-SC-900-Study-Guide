@@ -29,8 +29,8 @@
 * [Describe security reports and dashboards](53-Describe-security-reports-and-dashboards.md)
 * [Describe incidents and incident management capabilities](54-Describe-incidents-and-incident-management-capabilities.md)
 ## Describe endpoint security with Microsoft Intune
-* [Describe what Intune is]
-* [Describe endpoint security with Intune]
+* [Describe what Intune is](61-Describe-what-Intune-is.md)
+* [Describe endpoint security with Intune](62-Describe-endpoint-security-with-Intune.md)
 * [Describe the endpoint security with the Microsoft Endpoint Manager admin center]
 
 [Return to Table of Contents](../README.md)
