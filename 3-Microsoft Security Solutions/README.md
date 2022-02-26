@@ -22,7 +22,7 @@
 * [Describe Microsoft Defender for Identity (formerly Azure ATP)](42-Describe-Microsoft-Defender-for-Identity.md)
 * [Describe Microsoft Defender for Office 365 (formerly Office 365 ATP)](43-Describe-Microsoft-Defender-for-Office-365.md)
 * [Describe Microsoft Defender for Endpoint (formerly Microsoft Defender ATP)](44-Describe-Microsoft-Defender-for-Endpoint.md)
-* [Describe Microsoft Defender for Cloud Apps]
+* [Describe Microsoft Defender for Cloud Apps](45-Describe-Microsoft-Defender-for-Cloud-Apps.md)
 ## Describe security management capabilities of Microsoft 365
 * [Describe the Microsoft 365 Defender portal]
 * [Describe how to use Microsoft Secure Score]
