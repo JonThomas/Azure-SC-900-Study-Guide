@@ -26,8 +26,8 @@
 ## Describe security management capabilities of Microsoft 365
 * [Describe the Microsoft 365 Defender portal](51-Describe-the-Microsoft-365-Defender-portal.md)
 * [Describe how to use Microsoft Secure Score](52-Describe-how-to-use-Microsoft-Secure-Score.md)
-* [Describe security reports and dashboards]
-* [Describe incidents and incident management capabilities]
+* [Describe security reports and dashboards](53-Describe-security-reports-and-dashboards.md)
+* [Describe incidents and incident management capabilities](54-Describe-incidents-and-incident-management-capabilities.md)
 ## Describe endpoint security with Microsoft Intune
 * [Describe what Intune is]
 * [Describe endpoint security with Intune]
