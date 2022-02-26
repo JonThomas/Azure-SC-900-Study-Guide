@@ -2,7 +2,8 @@
 
 [Describe Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/describe-threat-protection-with-microsoft-365-defender/3-describe-defender-identity)
 
-* Uses signals from on-prem AD
+* Available at https://security.microsoft.com
+* Uses signals from on-prem AD *(What about Azure signals??)*
 * Creates a baseline for each user
     * Identifies anomalities, suspicious activities
     * Reveales threats and compromised users

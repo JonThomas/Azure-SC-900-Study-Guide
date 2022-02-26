@@ -20,7 +20,7 @@
 ## Describe threat protection with Microsoft 365 Defender
 * [Describe Microsoft 365 Defender services](41-Describe-Microsoft-365-Defender-services.md)
 * [Describe Microsoft Defender for Identity (formerly Azure ATP)](42-Describe-Microsoft-Defender-for-Identity.md)
-* [Describe Microsoft Defender for Office 365 (formerly Office 365 ATP)]
+* [Describe Microsoft Defender for Office 365 (formerly Office 365 ATP)](43-Describe-Microsoft-Defender-for-Office-365.md)
 * [Describe Microsoft Defender for Endpoint (formerly Microsoft Defender ATP)]
 * [Describe Microsoft Defender for Cloud Apps]
 ## Describe security management capabilities of Microsoft 365
