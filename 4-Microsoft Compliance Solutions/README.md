@@ -9,12 +9,12 @@
 * [Describe compliance manager](14-Describe-compliance-manager.md)
 * [Describe use and benefits of compliance score](15-Describe-use-and-benefits-of-compliance-score.md)
 ## Describe information protection and governance capabilities of Microsoft 365
-* [Describe data classification capabilities]
-* [Describe the value of content and activity explorer]
-* [Describe sensitivity labels]
-* [Describe Retention Polices and Retention Labels]
-* [Describe Records Management]
-* [Describe Data Loss Prevention]
+* [Describe data classification capabilities](21-Describe-data-classification-capabilities.md)
+* [Describe the value of content and activity explorer](22-Describe-the-value-of-content-and-activity-explorer.md)
+* [Describe sensitivity labels](23-Describe-sensitivity-labels.md)
+* [Describe Retention Polices and Retention Labels](24-Describe-Retention-Polices-and-Retention-Labels.md)
+* [Describe Records Management](25-Describe-Records-Management.md)
+* [Describe Data Loss Prevention](26-Describe-Data-Loss-Prevention.md)
 ## Describe insider risk capabilities in Microsoft 365
 * [Describe Insider risk management solution]
 * [Describe communication compliance]
