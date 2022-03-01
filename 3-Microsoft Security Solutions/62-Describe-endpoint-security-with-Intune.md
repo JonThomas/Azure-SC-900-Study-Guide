@@ -19,7 +19,7 @@
     * Microsoft Defender for endpoint works with Android, iOS and Windows 10 or later
 
 ## Conditional access
-[Conditional access](../2-Microsoft Identity and Access Management Solutions/31-Describe what conditional access is.md) is used enforce which devices and apps can access corporate resources. 
+[Conditional access](../2-Microsoft-Identity-and-Access-Management-Solutions/31-Describe%20what%20conditional%20access%20is.md) is used enforce which devices and apps can access corporate resources. 
 
 ## RBAC with Intune
 * Role bases access control can be assigned in Intune

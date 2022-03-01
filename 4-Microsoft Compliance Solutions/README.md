@@ -16,11 +16,11 @@
 * [Describe Records Management](25-Describe-Records-Management.md)
 * [Describe Data Loss Prevention](26-Describe-Data-Loss-Prevention.md)
 ## Describe insider risk capabilities in Microsoft 365
-* [Describe Insider risk management solution]
-* [Describe communication compliance]
-* [Describe information barriers]
-* [Describe privileged access management]
-* [Describe customer lockbox]
+* [Describe Insider risk management solution](31-Describe-Insider-risk-management-solution.md)
+* [Describe communication compliance](32-Describe-communication-compliance.md)
+* [Describe information barriers](33-Describe-information-barriers.md)
+* [Describe privileged access management](34-Describe-privileged-access-management.md)
+* [Describe customer lockbox](35-Describe-customer-lockbox.md)
 ## Describe the eDiscovery and audit capabilities of Microsoft 365
 * [Describe the purpose of eDiscovery]
 * [Describe the capabilities of the content search tool]

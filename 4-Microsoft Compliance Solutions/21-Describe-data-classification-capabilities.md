@@ -6,6 +6,8 @@
 
 Automatic data classification and labelling
 
+Classifiers are used among other things to [detect insder risks](31-Describe-Insider-risk-management-solution.md) and [ensure communication compliance](32-Describe-communication-compliance.md)
+
 ## Sensitive information types
 * Admins can use Microsoft 365 compliance center to set up regular expressions to recognise sensitive information:
     * Credit card numbers

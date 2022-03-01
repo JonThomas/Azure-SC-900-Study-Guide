@@ -19,11 +19,18 @@ These people have access to all company information.
     * Azure AD
 
 ## Solution catalog
-* Tools that help you classify, protect and retain data
-    * Data loss prevention tool
-    * Information protection tool - Discover, classify and protect sensitive content
-
-
+* Tools that help you classify, protect and retain data in three areas
+    * Information protection and governance
+        * [Data loss prevention](26-Describe-Data-Loss-Prevention.md) tool
+        * Information governance tool
+        * Information protection tool - Discover, classify and protect sensitive content
+        * [Records management](25-Describe-Records-Management.md) tool
+    * Insider risk management
+        * [Communication compliance](32-Describe-communication-compliance.md)
+        * [Insider risk management](31-Describe-Insider-risk-management-solution.md)
+    * Discovery and response
+        * Audit
+        * Data investigation
 
 [Return to Microsoft Compliance Solutions](README.md)
 
