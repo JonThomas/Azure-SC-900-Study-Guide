@@ -22,15 +22,15 @@
 * [Describe privileged access management](34-Describe-privileged-access-management.md)
 * [Describe customer lockbox](35-Describe-customer-lockbox.md)
 ## Describe the eDiscovery and audit capabilities of Microsoft 365
-* [Describe the purpose of eDiscovery]
-* [Describe the capabilities of the content search tool]
-* [Describe the core eDiscovery workflow]
-* [Describe the advanced eDiscovery workflow]
-* [Describe the core audit capabilities of M365
-* [Describe purpose and value of Advanced Auditing]
+* [Describe the purpose of eDiscovery](41-Describe-the-purpose-of-eDiscovery.md)
+* [Describe the capabilities of the content search tool](42-Describe-the-capabilities-of-the-content-search-tool.md)
+* [Describe the core eDiscovery workflow](43-Describe-the-core-eDiscovery-workflow.md)
+* [Describe the advanced eDiscovery workflow](44-Describe-the-advanced-eDiscovery-workflow.md)
+* [Describe the core audit capabilities of M365](45-Describe-the-core-audit-capabilities-of-M365.md)
+* [Describe purpose and value of Advanced Auditing](46-Describe-purpose-and-value-of-Advanced-Auditing.md)
 ## Describe resource governance capabilities in Azure
-* [Describe the use of Azure Resource locks]
-* [Describe what Azure Blueprints is]
-* [Define Azure Policy and describe its use cases]
+* [Describe the use of Azure Resource locks](51-Describe-the-use-of-Azure-Resource-locks.md)
+* [Describe what Azure Blueprints is](52-Describe-what-Azure-Blueprints-is.md)
+* [Define Azure Policy and describe its use cases](53-Define-Azure-Policy-and-describe-its-use-cases.md)
 
 [Return to Table of Contents](../README.md)
