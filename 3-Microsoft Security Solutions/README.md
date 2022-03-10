@@ -16,7 +16,8 @@
 * [Describe enhanced security of Microsoft Defender for Cloud](24-Describe-enhanced-security-of-Microsoft-Defender-for-Cloud.md)
 * [Describe security baselines for Azure](25-Describe-security-baselines-for-Azure.md)
 ## Describe security capabilities of Microsoft Sentinel
-* [Define the concepts of SIEM, SOAR, XDR](31-Define-the-concepts-of-SIEM-SOAR-XDR.md) [Describe how of Microsoft Sentinel provides integrated threat protection](32-Describe-how-of-Microsoft-Sentinel-provides-integrated-threat-protection.md)
+* [Define the concepts of SIEM, SOAR, XDR](31-Define-the-concepts-of-SIEM-SOAR-XDR.md) 
+* [Describe how of Microsoft Sentinel provides integrated threat protection](32-Describe-how-of-Microsoft-Sentinel-provides-integrated-threat-protection.md)
 ## Describe threat protection with Microsoft 365 Defender
 * [Describe Microsoft 365 Defender services](41-Describe-Microsoft-365-Defender-services.md)
 * [Describe Microsoft Defender for Identity (formerly Azure ATP)](42-Describe-Microsoft-Defender-for-Identity.md)
