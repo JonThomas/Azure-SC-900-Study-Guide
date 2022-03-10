@@ -4,6 +4,8 @@
 
 Cloud Security Posture Management (CSPM) assesses systems, and automatically alerts security staff when a vulnerability is found.
 
+CSPM is free, and available for all Azure Subscriptions.
+
 > Is this really the score on the front page of Azure Security Center?
 
 

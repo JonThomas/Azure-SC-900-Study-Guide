@@ -8,6 +8,7 @@ The Service Trust portal is available at https://servicetrust.microsoft.com/ and
 
 The portal provides information, tools, and other resources about Microsoft security, privacy, and compliance practices.
 
+It also features the "My Library", which allows you to upload compliance and other documents.
 
 [Return to Microsoft Security Solutions](README.md)
 

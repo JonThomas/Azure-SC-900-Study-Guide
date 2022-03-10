@@ -10,10 +10,10 @@ vs
 * Cloud only idenity: Identities are created and managed in Azure
 * Users can access on-prem resources, no matter which identiy model is used.
 
-Read more about the three [Authentication methods @ AZ-500](https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/6-describe-concept-of-hybrid-identities)
+Read more about the three [Authentication methods in the AZ-500 study guide](https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/6-describe-concept-of-hybrid-identities)
     * Password hash sync (a hash of the password is kept in the cloud)
     * Pass-through auth (auth is redirected to on-prem AD)
-    * Federated ath
+    * Federated auth
 
 
 [Return to Microsoft Identity and Access Management Solutions](README.md)
